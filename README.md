@@ -1,0 +1,2 @@
+# amaliaVM
+VM in C++
